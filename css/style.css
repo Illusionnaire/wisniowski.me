@@ -1878,9 +1878,6 @@ input#nav-toggle:checked ~ #nav-menu {
 .mb-8 {
   margin-bottom: 2rem;
 }
-.ml-0 {
-  margin-left: 0px;
-}
 .ml-2 {
   margin-left: 0.5rem;
 }
@@ -1944,11 +1941,11 @@ input#nav-toggle:checked ~ #nav-menu {
 .max-h-\[300px\] {
   max-height: 300px;
 }
+.max-h-\[50vh\] {
+  max-height: 50vh;
+}
 .w-full {
   width: 100%;
-}
-.max-w-\[600px\] {
-  max-width: 600px;
 }
 .-translate-x-1\/2 {
   --tw-translate-x: -50%;
