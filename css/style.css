@@ -1854,6 +1854,9 @@ input#nav-toggle:checked ~ #nav-menu {
   margin-left: auto;
   margin-right: auto;
 }
+.mb-1 {
+  margin-bottom: 0.25rem;
+}
 .mb-10 {
   margin-bottom: 2.5rem;
 }
@@ -1932,6 +1935,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .hidden {
   display: none;
 }
+.h-2\.5 {
+  height: 0.625rem;
+}
 .h-6 {
   height: 1.5rem;
 }
@@ -1986,8 +1992,8 @@ input#nav-toggle:checked ~ #nav-menu {
 .rounded-3xl {
   border-radius: 1.5rem;
 }
-.rounded-lg {
-  border-radius: 0.5rem;
+.rounded-full {
+  border-radius: 9999px;
 }
 .border-r {
   border-right-width: 1px;
@@ -1996,9 +2002,21 @@ input#nav-toggle:checked ~ #nav-menu {
   --tw-border-opacity: 1;
   border-color: rgb(234 234 234 / var(--tw-border-opacity));
 }
+.bg-blue-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(37 99 235 / var(--tw-bg-opacity));
+}
 .bg-body {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+.bg-gray-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(229 231 235 / var(--tw-bg-opacity));
+}
+.bg-red-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 38 38 / var(--tw-bg-opacity));
 }
 .bg-theme-light {
   --tw-bg-opacity: 1;
@@ -2082,6 +2100,13 @@ input#nav-toggle:checked ~ #nav-menu {
 .text-\[8rem\] {
   font-size: 8rem;
 }
+.text-base {
+  font-size: 16px;
+}
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
@@ -2089,8 +2114,15 @@ input#nav-toggle:checked ~ #nav-menu {
 .font-bold {
   font-weight: 700;
 }
+.font-medium {
+  font-weight: 500;
+}
 .capitalize {
   text-transform: capitalize;
+}
+.text-blue-700 {
+  --tw-text-opacity: 1;
+  color: rgb(29 78 216 / var(--tw-text-opacity));
 }
 .text-dark {
   --tw-text-opacity: 1;
@@ -2099,6 +2131,10 @@ input#nav-toggle:checked ~ #nav-menu {
 .text-primary {
   --tw-text-opacity: 1;
   color: rgb(209 0 31 / var(--tw-text-opacity));
+}
+.text-red-700 {
+  --tw-text-opacity: 1;
+  color: rgb(185 28 28 / var(--tw-text-opacity));
 }
 .no-underline {
   text-decoration-line: none;
@@ -2111,9 +2147,6 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .rounded {
   border-radius: 6px;
-}
-.rounded-lg {
-  border-radius: 12px;
 }
 
 .search-wrapper {
@@ -3144,6 +3177,11 @@ input#nav-toggle:checked ~ #nav-menu {
 .dark\:bg-darkmode-theme-light:is(.dark *) {
   --tw-bg-opacity: 1;
   background-color: rgb(34 34 34 / var(--tw-bg-opacity));
+}
+
+.dark\:bg-gray-700:is(.dark *) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(55 65 81 / var(--tw-bg-opacity));
 }
 
 .dark\:from-darkmode-body:is(.dark *) {
