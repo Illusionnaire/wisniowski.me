@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Wisniowski Blog</title>
-    <link>https://wisniowski.me/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jul 2024 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wisniowski.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australia</title>
-      <link>https://wisniowski.me/categories/australia/</link>
+      <link>http://localhost:1313/categories/australia/</link>
       <pubDate>Sun, 14 Jul 2024 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/categories/australia/</guid>
+      <guid>http://localhost:1313/categories/australia/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>https://wisniowski.me/categories/travel/</link>
+      <link>http://localhost:1313/categories/travel/</link>
       <pubDate>Sun, 14 Jul 2024 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/categories/travel/</guid>
+      <guid>http://localhost:1313/categories/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>https://wisniowski.me/categories/finance/</link>
+      <link>http://localhost:1313/categories/finance/</link>
       <pubDate>Mon, 29 Apr 2024 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/categories/finance/</guid>
+      <guid>http://localhost:1313/categories/finance/</guid>
       <description></description>
     </item>
   </channel>
