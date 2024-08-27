@@ -2,31 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Australia on The Wisniowski Blog</title>
-    <link>https://wisniowski.me/categories/australia/</link>
+    <link>http://localhost:1313/categories/australia/</link>
     <description>Recent content in Australia on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wisniowski.me/categories/australia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2024 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/australia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia Entry #5 - May 13th - May 29th, 2024</title>
+      <link>http://localhost:1313/blog/post-5/</link>
+      <pubDate>Wed, 29 May 2024 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-5/</guid>
+      <description>The Last Few Weeks I spent a lot of my time this week focused on work and trying to get in some good outdoor nature hikes and walks from the area.</description>
+    </item>
+    <item>
+      <title>Australia Entry #4 - April 28th - May 12th, 2024</title>
+      <link>http://localhost:1313/blog/post-4/</link>
+      <pubDate>Sun, 12 May 2024 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-4/</guid>
+      <description>Introduction Compared to my first two weeks in Australia, the last two weeks have been a lot calmer.</description>
+    </item>
     <item>
       <title>Australia Entry #3 - The Finances of Moving</title>
-      <link>https://wisniowski.me/blog/post-3/</link>
+      <link>http://localhost:1313/blog/post-3/</link>
       <pubDate>Mon, 29 Apr 2024 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/blog/post-3/</guid>
+      <guid>http://localhost:1313/blog/post-3/</guid>
       <description>When I was moving out of my apartment in Wisconsin, I realized how helpful and important it was to look back at the prices that I purchased things and to help wrap my head around how much money it will take to move to a new apartment and furnish it all from the beginning.</description>
     </item>
     <item>
       <title>Australia Entry #1 - Introduction and Getting to Australia</title>
-      <link>https://wisniowski.me/blog/post-1/</link>
+      <link>http://localhost:1313/blog/post-1/</link>
       <pubDate>Sat, 27 Apr 2024 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/blog/post-1/</guid>
+      <guid>http://localhost:1313/blog/post-1/</guid>
       <description>Introduction Back in my sophomore year of college, I had the opportunity to go to Chengdu, China on an internship program.</description>
     </item>
     <item>
       <title>Australia Entry #2 - April 11th to April 27th 2024</title>
-      <link>https://wisniowski.me/blog/post-2/</link>
+      <link>http://localhost:1313/blog/post-2/</link>
       <pubDate>Sat, 27 Apr 2024 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/blog/post-2/</guid>
+      <guid>http://localhost:1313/blog/post-2/</guid>
       <description>I left for the airport on April 11th to leave the US and start the next big adventure of my life.</description>
     </item>
   </channel>
