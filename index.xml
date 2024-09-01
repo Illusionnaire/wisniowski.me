@@ -6,8 +6,15 @@
     <description>Recent content in Hey, I am Marcin Wisniowski! on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jul 2024 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 05:00:00 +0000</lastBuildDate>
     <atom:link href="https://wisniowski.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia Entry #8 - July 8th - August 31st, 2024</title>
+      <link>https://wisniowski.me/blog/post-8/</link>
+      <pubDate>Sat, 31 Aug 2024 05:00:00 +0000</pubDate>
+      <guid>https://wisniowski.me/blog/post-8/</guid>
+      <description>Two Months of Stuff Hey everyone! I&amp;rsquo;ll be the first to admit that it&amp;rsquo;s been a while since my last post and that didn&amp;rsquo;t align with my hope to write one of these every two weeks.</description>
+    </item>
     <item>
       <title>Australia Entry #7 - June 17th - July 8th, 2024</title>
       <link>https://wisniowski.me/blog/post-7/</link>
@@ -63,6 +70,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://wisniowski.me/elements/</guid>
       <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Youtube video Here is an example of headings.</description>
+    </item>
+    <item>
+      <title>Upcoming Work</title>
+      <link>https://wisniowski.me/ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wisniowski.me/ideas/</guid>
+      <description>Future Ideas Active Project&#xD;Write A Blog Post about How I Made This Website&#xD;0%&#xD;Up Next&#xD;Create a Separate Page for Books I&#39;m Reading or Have Read&#xD;0%&#xD;Up Next&#xD;Create a Separate Page for Video Games I&#39;m Playing&#xD;0%&#xD;Up Next&#xD;Create a Separate Page for TV Shows and Movies + Watchlist&#xD;0%&#xD;Up Next&#xD;Create a Separate Page Hikes (Embed Alltrails) 0%&#xD;Completed Ideas Completed 9/1/2024&#xD;Catch Up Blog Posts September 100%&#xD;</description>
     </item>
   </channel>
 </rss>
