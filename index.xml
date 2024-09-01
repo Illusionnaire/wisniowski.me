@@ -6,8 +6,15 @@
     <description>Recent content in Hey, I am Marcin Wisniowski! on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Aug 2024 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 11:13:00 +0000</lastBuildDate>
     <atom:link href="https://wisniowski.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating This Website</title>
+      <link>https://wisniowski.me/blog/post-9/</link>
+      <pubDate>Sat, 31 Aug 2024 11:13:00 +0000</pubDate>
+      <guid>https://wisniowski.me/blog/post-9/</guid>
+      <description>I had gone through multiple decisions when coming up with an alternative to my approach to documenting my journey in Australia.</description>
+    </item>
     <item>
       <title>Australia Entry #8 - July 8th - August 31st, 2024</title>
       <link>https://wisniowski.me/blog/post-8/</link>
@@ -76,7 +83,7 @@
       <link>https://wisniowski.me/ideas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://wisniowski.me/ideas/</guid>
-      <description>Future Ideas Active Project&#xD;Write A Blog Post about How I Made This Website&#xD;0%&#xD;Up Next&#xD;Create a Separate Page for Books I&#39;m Reading or Have Read&#xD;0%&#xD;Up Next&#xD;Create a Separate Page for Video Games I&#39;m Playing&#xD;0%&#xD;Up Next&#xD;Create a Separate Page for TV Shows and Movies + Watchlist&#xD;0%&#xD;Up Next&#xD;Create a Separate Page Hikes (Embed Alltrails) 0%&#xD;Completed Ideas Completed 9/1/2024&#xD;Catch Up Blog Posts September 100%&#xD;</description>
+      <description>Future Ideas Active Project&#xD;Create a Separate Page for Video Games I&#39;m Playing&#xD;5%&#xD;Up Next&#xD;Create a Separate Page for Books I&#39;m Reading or Have Read&#xD;0%&#xD;Up Next&#xD;Create a Separate Page for TV Shows and Movies + Watchlist&#xD;0%&#xD;Up Next&#xD;Create a Separate Page Hikes (Embed Alltrails) 0%&#xD;Completed Ideas Completed 9/1/2024&#xD;Catch Up Blog Posts September 100%&#xD;Completed 9/1/2024&#xD;Write A Blog Post about How I Made This Website&#xD;100%&#xD;</description>
     </item>
   </channel>
 </rss>
