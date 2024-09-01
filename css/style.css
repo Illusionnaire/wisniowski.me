@@ -1817,6 +1817,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .absolute {
   position: absolute;
 }
+.relative {
+  position: relative;
+}
 .sticky {
   position: sticky;
 }
@@ -1840,6 +1843,33 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .order-3 {
   order: 3;
+}
+.col-span-12 {
+  grid-column: span 12 / span 12;
+}
+.col-span-3 {
+  grid-column: span 3 / span 3;
+}
+.col-span-5 {
+  grid-column: span 5 / span 5;
+}
+.col-span-6 {
+  grid-column: span 6 / span 6;
+}
+.col-span-7 {
+  grid-column: span 7 / span 7;
+}
+.col-span-9 {
+  grid-column: span 9 / span 9;
+}
+.row-span-1 {
+  grid-row: span 1 / span 1;
+}
+.float-right {
+  float: right;
+}
+.float-left {
+  float: left;
 }
 .m-1 {
   margin: 0.25rem;
@@ -1866,6 +1896,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .mb-14 {
   margin-bottom: 3.5rem;
 }
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
 .mb-3 {
   margin-bottom: 0.75rem;
 }
@@ -1877,6 +1910,9 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .mb-8 {
   margin-bottom: 2rem;
+}
+.me-2 {
+  margin-inline-end: 0.5rem;
 }
 .ml-2 {
   margin-left: 0.5rem;
@@ -1905,6 +1941,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .mt-20 {
   margin-top: 5rem;
 }
+.mt-3 {
+  margin-top: 0.75rem;
+}
 .mt-4 {
   margin-top: 1rem;
 }
@@ -1929,6 +1968,9 @@ input#nav-toggle:checked ~ #nav-menu {
 .table {
   display: table;
 }
+.grid {
+  display: grid;
+}
 .hidden {
   display: none;
 }
@@ -1938,11 +1980,23 @@ input#nav-toggle:checked ~ #nav-menu {
 .h-6 {
   height: 1.5rem;
 }
+.max-h-\[100px\] {
+  max-height: 100px;
+}
+.max-h-\[200px\] {
+  max-height: 200px;
+}
 .max-h-\[300px\] {
   max-height: 300px;
 }
+.max-h-\[400px\] {
+  max-height: 400px;
+}
 .max-h-\[50vh\] {
   max-height: 50vh;
+}
+.max-h-\[600px\] {
+  max-height: 600px;
 }
 .w-full {
   width: 100%;
@@ -1957,6 +2011,15 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .cursor-pointer {
   cursor: pointer;
+}
+.grid-cols-12 {
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+}
+.grid-rows-1 {
+  grid-template-rows: repeat(1, minmax(0, 1fr));
+}
+.grid-rows-2 {
+  grid-template-rows: repeat(2, minmax(0, 1fr));
 }
 .items-start {
   align-items: flex-start;
@@ -1999,6 +2062,10 @@ input#nav-toggle:checked ~ #nav-menu {
   --tw-border-opacity: 1;
   border-color: rgb(234 234 234 / var(--tw-border-opacity));
 }
+.bg-black {
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 0 0 / var(--tw-bg-opacity));
+}
 .bg-body {
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
@@ -2007,9 +2074,25 @@ input#nav-toggle:checked ~ #nav-menu {
   --tw-bg-opacity: 1;
   background-color: rgb(229 231 235 / var(--tw-bg-opacity));
 }
+.bg-green-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(22 163 74 / var(--tw-bg-opacity));
+}
+.bg-green-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(21 128 61 / var(--tw-bg-opacity));
+}
+.bg-red-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 226 226 / var(--tw-bg-opacity));
+}
 .bg-red-600 {
   --tw-bg-opacity: 1;
   background-color: rgb(220 38 38 / var(--tw-bg-opacity));
+}
+.bg-red-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(185 28 28 / var(--tw-bg-opacity));
 }
 .bg-theme-light {
   --tw-bg-opacity: 1;
@@ -2037,6 +2120,10 @@ input#nav-toggle:checked ~ #nav-menu {
   -o-object-fit: cover;
      object-fit: cover;
 }
+.object-left-top {
+  -o-object-position: left top;
+     object-position: left top;
+}
 .p-6 {
   padding: 1.5rem;
 }
@@ -2046,6 +2133,10 @@ input#nav-toggle:checked ~ #nav-menu {
 .px-2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
+}
+.px-2\.5 {
+  padding-left: 0.625rem;
+  padding-right: 0.625rem;
 }
 .px-3 {
   padding-left: 0.75rem;
@@ -2058,6 +2149,10 @@ input#nav-toggle:checked ~ #nav-menu {
 .px-8 {
   padding-left: 2rem;
   padding-right: 2rem;
+}
+.py-0\.5 {
+  padding-top: 0.125rem;
+  padding-bottom: 0.125rem;
 }
 .py-1 {
   padding-top: 0.25rem;
@@ -2096,6 +2191,10 @@ input#nav-toggle:checked ~ #nav-menu {
 .text-base {
   font-size: 16px;
 }
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
 .text-sm {
   font-size: 0.875rem;
   line-height: 1.25rem;
@@ -2103,6 +2202,10 @@ input#nav-toggle:checked ~ #nav-menu {
 .text-xl {
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
 }
 .font-bold {
   font-weight: 700;
@@ -2112,6 +2215,10 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 .capitalize {
   text-transform: capitalize;
+}
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 .text-dark {
   --tw-text-opacity: 1;
@@ -2124,6 +2231,10 @@ input#nav-toggle:checked ~ #nav-menu {
 .text-red-700 {
   --tw-text-opacity: 1;
   color: rgb(185 28 28 / var(--tw-text-opacity));
+}
+.text-red-800 {
+  --tw-text-opacity: 1;
+  color: rgb(153 27 27 / var(--tw-text-opacity));
 }
 .no-underline {
   text-decoration-line: none;
@@ -3091,6 +3202,11 @@ input#nav-toggle:checked ~ #nav-menu {
     width: 83.33333333333334%;
   }
 
+  .md\:col-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+
   .md\:order-2 {
     order: 2;
   }
@@ -3173,6 +3289,26 @@ input#nav-toggle:checked ~ #nav-menu {
   background-color: rgb(55 65 81 / var(--tw-bg-opacity));
 }
 
+.dark\:bg-green-700:is(.dark *) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(21 128 61 / var(--tw-bg-opacity));
+}
+
+.dark\:bg-red-600:is(.dark *) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 38 38 / var(--tw-bg-opacity));
+}
+
+.dark\:bg-red-700:is(.dark *) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(185 28 28 / var(--tw-bg-opacity));
+}
+
+.dark\:bg-red-900:is(.dark *) {
+  --tw-bg-opacity: 1;
+  background-color: rgb(127 29 29 / var(--tw-bg-opacity));
+}
+
 .dark\:from-darkmode-body:is(.dark *) {
   --tw-gradient-from: #1c1c1c var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(28 28 28 / 0) var(--tw-gradient-to-position);
@@ -3183,6 +3319,11 @@ input#nav-toggle:checked ~ #nav-menu {
   --tw-gradient-to: #222222 var(--tw-gradient-to-position);
 }
 
+.dark\:text-black:is(.dark *) {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+
 .dark\:text-darkmode-dark:is(.dark *) {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
@@ -3191,6 +3332,11 @@ input#nav-toggle:checked ~ #nav-menu {
 .dark\:text-darkmode-primary:is(.dark *) {
   --tw-text-opacity: 1;
   color: rgb(209 0 31 / var(--tw-text-opacity));
+}
+
+.dark\:text-red-300:is(.dark *) {
+  --tw-text-opacity: 1;
+  color: rgb(252 165 165 / var(--tw-text-opacity));
 }
 
 .dark\:text-white:is(.dark *) {
