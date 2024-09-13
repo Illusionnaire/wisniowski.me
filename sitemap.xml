@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wisniowski.me/blog/post-10/</loc>
+    <lastmod>2024-09-13T10:08:00+00:00</lastmod>
+  </url><url>
     <loc>https://wisniowski.me/blog/</loc>
-    <lastmod>2024-08-31T11:13:00+00:00</lastmod>
+    <lastmod>2024-09-13T10:08:00+00:00</lastmod>
   </url><url>
     <loc>https://wisniowski.me/categories/</loc>
-    <lastmod>2024-08-31T11:13:00+00:00</lastmod>
+    <lastmod>2024-09-13T10:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wisniowski.me/</loc>
+    <lastmod>2024-09-13T10:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wisniowski.me/categories/movies/</loc>
+    <lastmod>2024-09-13T10:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wisniowski.me/tags/</loc>
+    <lastmod>2024-09-13T10:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wisniowski.me/tags/tv-shows/</loc>
+    <lastmod>2024-09-13T10:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wisniowski.me/categories/tv-shows/</loc>
+    <lastmod>2024-09-13T10:08:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wisniowski.me/tags/year-2024/</loc>
+    <lastmod>2024-09-13T10:08:00+00:00</lastmod>
   </url><url>
     <loc>https://wisniowski.me/blog/post-9/</loc>
     <lastmod>2024-08-31T11:13:00+00:00</lastmod>
@@ -14,16 +35,7 @@
     <loc>https://wisniowski.me/tags/development/</loc>
     <lastmod>2024-08-31T11:13:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/</loc>
-    <lastmod>2024-08-31T11:13:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wisniowski.me/tags/</loc>
-    <lastmod>2024-08-31T11:13:00+00:00</lastmod>
-  </url><url>
     <loc>https://wisniowski.me/categories/website/</loc>
-    <lastmod>2024-08-31T11:13:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wisniowski.me/tags/year-2024/</loc>
     <lastmod>2024-08-31T11:13:00+00:00</lastmod>
   </url><url>
     <loc>https://wisniowski.me/categories/australia/</loc>
@@ -68,6 +80,8 @@
     <loc>https://wisniowski.me/videogames/cyberpunk2077/</loc>
   </url><url>
     <loc>https://wisniowski.me/elements/</loc>
+  </url><url>
+    <loc>https://wisniowski.me/videogames/finalfantasy7remake/</loc>
   </url><url>
     <loc>https://wisniowski.me/ideas/</loc>
   </url><url>
