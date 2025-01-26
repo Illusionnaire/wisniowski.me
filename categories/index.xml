@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Wisniowski Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://wisniowski.me/categories/</link>
     <description>Recent content in Categories on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jan 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wisniowski.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australia</title>
-      <link>http://localhost:1313/categories/australia/</link>
+      <link>https://wisniowski.me/categories/australia/</link>
       <pubDate>Sun, 26 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/australia/</guid>
+      <guid>https://wisniowski.me/categories/australia/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/categories/travel/</link>
+      <link>https://wisniowski.me/categories/travel/</link>
       <pubDate>Sun, 26 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/travel/</guid>
+      <guid>https://wisniowski.me/categories/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Singapore</title>
-      <link>http://localhost:1313/categories/singapore/</link>
+      <link>https://wisniowski.me/categories/singapore/</link>
       <pubDate>Mon, 11 Nov 2024 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/singapore/</guid>
+      <guid>https://wisniowski.me/categories/singapore/</guid>
       <description></description>
     </item>
     <item>
       <title>Movies</title>
-      <link>http://localhost:1313/categories/movies/</link>
+      <link>https://wisniowski.me/categories/movies/</link>
       <pubDate>Fri, 13 Sep 2024 10:08:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/movies/</guid>
+      <guid>https://wisniowski.me/categories/movies/</guid>
       <description></description>
     </item>
     <item>
       <title>TV Shows</title>
-      <link>http://localhost:1313/categories/tv-shows/</link>
+      <link>https://wisniowski.me/categories/tv-shows/</link>
       <pubDate>Fri, 13 Sep 2024 10:08:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tv-shows/</guid>
+      <guid>https://wisniowski.me/categories/tv-shows/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
-      <link>http://localhost:1313/categories/website/</link>
+      <link>https://wisniowski.me/categories/website/</link>
       <pubDate>Sat, 31 Aug 2024 11:13:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/website/</guid>
+      <guid>https://wisniowski.me/categories/website/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>http://localhost:1313/categories/finance/</link>
+      <link>https://wisniowski.me/categories/finance/</link>
       <pubDate>Mon, 29 Apr 2024 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/finance/</guid>
+      <guid>https://wisniowski.me/categories/finance/</guid>
       <description></description>
     </item>
   </channel>
