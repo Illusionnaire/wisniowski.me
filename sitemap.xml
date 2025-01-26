@@ -2,99 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wisniowski.me/categories/australia/</loc>
+    <loc>http://localhost:1313/categories/australia/</loc>
+    <lastmod>2025-01-26T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/post-16/</loc>
+    <lastmod>2025-01-26T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-01-26T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-26T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-26T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-26T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/travel/</loc>
+    <lastmod>2025-01-26T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/travel/</loc>
+    <lastmod>2025-01-26T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/year-2025/</loc>
+    <lastmod>2025-01-26T05:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/post-15/</loc>
     <lastmod>2024-12-15T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-15/</loc>
+    <loc>http://localhost:1313/tags/year-2024/</loc>
     <lastmod>2024-12-15T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/</loc>
-    <lastmod>2024-12-15T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wisniowski.me/categories/</loc>
-    <lastmod>2024-12-15T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wisniowski.me/</loc>
-    <lastmod>2024-12-15T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wisniowski.me/tags/</loc>
-    <lastmod>2024-12-15T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wisniowski.me/tags/travel/</loc>
-    <lastmod>2024-12-15T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wisniowski.me/categories/travel/</loc>
-    <lastmod>2024-12-15T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wisniowski.me/tags/year-2024/</loc>
-    <lastmod>2024-12-15T05:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wisniowski.me/blog/post-12/</loc>
+    <loc>http://localhost:1313/blog/post-12/</loc>
     <lastmod>2024-11-11T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-13/</loc>
+    <loc>http://localhost:1313/blog/post-13/</loc>
     <lastmod>2024-11-11T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-14/</loc>
+    <loc>http://localhost:1313/blog/post-14/</loc>
     <lastmod>2024-11-11T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/categories/singapore/</loc>
+    <loc>http://localhost:1313/categories/singapore/</loc>
     <lastmod>2024-11-11T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-11/</loc>
+    <loc>http://localhost:1313/blog/post-11/</loc>
     <lastmod>2024-09-23T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-10/</loc>
+    <loc>http://localhost:1313/blog/post-10/</loc>
     <lastmod>2024-09-13T10:08:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/categories/movies/</loc>
+    <loc>http://localhost:1313/categories/movies/</loc>
     <lastmod>2024-09-13T10:08:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/tags/tv-shows/</loc>
+    <loc>http://localhost:1313/tags/tv-shows/</loc>
     <lastmod>2024-09-13T10:08:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/categories/tv-shows/</loc>
+    <loc>http://localhost:1313/categories/tv-shows/</loc>
     <lastmod>2024-09-13T10:08:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-9/</loc>
+    <loc>http://localhost:1313/blog/post-9/</loc>
     <lastmod>2024-08-31T11:13:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/tags/development/</loc>
+    <loc>http://localhost:1313/tags/development/</loc>
     <lastmod>2024-08-31T11:13:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/categories/website/</loc>
+    <loc>http://localhost:1313/categories/website/</loc>
     <lastmod>2024-08-31T11:13:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-8/</loc>
+    <loc>http://localhost:1313/blog/post-8/</loc>
     <lastmod>2024-08-31T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-7/</loc>
+    <loc>http://localhost:1313/blog/post-7/</loc>
     <lastmod>2024-07-14T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-6/</loc>
+    <loc>http://localhost:1313/blog/post-6/</loc>
     <lastmod>2024-06-16T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-5/</loc>
+    <loc>http://localhost:1313/blog/post-5/</loc>
     <lastmod>2024-05-29T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-4/</loc>
+    <loc>http://localhost:1313/blog/post-4/</loc>
     <lastmod>2024-05-12T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-3/</loc>
+    <loc>http://localhost:1313/blog/post-3/</loc>
     <lastmod>2024-04-29T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/tags/finance/</loc>
+    <loc>http://localhost:1313/tags/finance/</loc>
     <lastmod>2024-04-29T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/categories/finance/</loc>
+    <loc>http://localhost:1313/categories/finance/</loc>
     <lastmod>2024-04-29T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-1/</loc>
+    <loc>http://localhost:1313/blog/post-1/</loc>
     <lastmod>2024-04-27T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/blog/post-2/</loc>
+    <loc>http://localhost:1313/blog/post-2/</loc>
     <lastmod>2024-04-27T05:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wisniowski.me/elements/</loc>
+    <loc>http://localhost:1313/elements/</loc>
   </url>
 </urlset>
