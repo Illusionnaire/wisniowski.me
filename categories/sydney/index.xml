@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sydney on The Wisniowski Blog</title>
+    <link>http://localhost:1313/categories/sydney/</link>
+    <description>Recent content in Sydney on The Wisniowski Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Mar 2025 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/sydney/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia Entry #16 - February 23rd - March 22nd, 2025</title>
+      <link>http://localhost:1313/blog/post-18/</link>
+      <pubDate>Sat, 22 Mar 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-18/</guid>
+      <description>Seeing Friends in Sydney Near the end of February, a few of my friends from back in the states flew out to Australia and so I made sure that I went out to Sydney to meet them and have a fun few days with my best friends.</description>
+    </item>
+  </channel>
+</rss>

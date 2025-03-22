@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Year 2025 on The Wisniowski Blog</title>
-    <link>https://wisniowski.me/tags/year-2025/</link>
+    <link>http://localhost:1313/tags/year-2025/</link>
     <description>Recent content in Year 2025 on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Feb 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wisniowski.me/tags/year-2025/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Mar 2025 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/year-2025/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia Entry #16 - February 23rd - March 22nd, 2025</title>
+      <link>http://localhost:1313/blog/post-18/</link>
+      <pubDate>Sat, 22 Mar 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-18/</guid>
+      <description>Seeing Friends in Sydney Near the end of February, a few of my friends from back in the states flew out to Australia and so I made sure that I went out to Sydney to meet them and have a fun few days with my best friends.</description>
+    </item>
     <item>
       <title>Australia Entry #15 - January 27th - February 23rd, 2025</title>
-      <link>https://wisniowski.me/blog/post-17/</link>
+      <link>http://localhost:1313/blog/post-17/</link>
       <pubDate>Sun, 23 Feb 2025 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/blog/post-17/</guid>
+      <guid>http://localhost:1313/blog/post-17/</guid>
       <description>The Great Ocean Road Over the month, I had done a lot of planning around making sure my mom had a great time when she visited me in Australia.</description>
     </item>
     <item>
       <title>Australia Entry #14 - December 16th - January 26th, 2025</title>
-      <link>https://wisniowski.me/blog/post-16/</link>
+      <link>http://localhost:1313/blog/post-16/</link>
       <pubDate>Sun, 26 Jan 2025 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/blog/post-16/</guid>
+      <guid>http://localhost:1313/blog/post-16/</guid>
       <description>Big Plans If I&amp;rsquo;m being honest with myself, I think it&amp;rsquo;s more and more likely that these posts are going to turn into a monthly thing, instead of a bi-weekly thing as things have turned into normal life again.</description>
     </item>
   </channel>
