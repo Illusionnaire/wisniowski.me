@@ -2160,9 +2160,6 @@ input#nav-toggle:checked ~ #nav-menu {
   --tw-text-opacity: 1;
   color: rgb(133 77 14 / var(--tw-text-opacity));
 }
-.no-underline {
-  text-decoration-line: none;
-}
 .opacity-0 {
   opacity: 0;
 }
