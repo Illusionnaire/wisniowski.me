@@ -6,8 +6,22 @@
     <description>Recent content in Categories on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Jun 2025 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jul 2025 10:08:00 +0000</lastBuildDate>
     <atom:link href="https://wisniowski.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Movies</title>
+      <link>https://wisniowski.me/categories/movies/</link>
+      <pubDate>Sat, 19 Jul 2025 10:08:00 +0000</pubDate>
+      <guid>https://wisniowski.me/categories/movies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TV Shows</title>
+      <link>https://wisniowski.me/categories/tv-shows/</link>
+      <pubDate>Sat, 19 Jul 2025 10:08:00 +0000</pubDate>
+      <guid>https://wisniowski.me/categories/tv-shows/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Australia</title>
       <link>https://wisniowski.me/categories/australia/</link>
@@ -55,20 +69,6 @@
       <link>https://wisniowski.me/categories/singapore/</link>
       <pubDate>Mon, 11 Nov 2024 05:00:00 +0000</pubDate>
       <guid>https://wisniowski.me/categories/singapore/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Movies</title>
-      <link>https://wisniowski.me/categories/movies/</link>
-      <pubDate>Fri, 13 Sep 2024 10:08:00 +0000</pubDate>
-      <guid>https://wisniowski.me/categories/movies/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>TV Shows</title>
-      <link>https://wisniowski.me/categories/tv-shows/</link>
-      <pubDate>Fri, 13 Sep 2024 10:08:00 +0000</pubDate>
-      <guid>https://wisniowski.me/categories/tv-shows/</guid>
       <description></description>
     </item>
     <item>
