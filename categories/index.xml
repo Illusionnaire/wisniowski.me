@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on The Wisniowski Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://wisniowski.me/categories/</link>
     <description>Recent content in Categories on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Oct 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wisniowski.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poland</title>
-      <link>http://localhost:1313/categories/poland/</link>
+      <link>https://wisniowski.me/categories/poland/</link>
       <pubDate>Mon, 06 Oct 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/poland/</guid>
+      <guid>https://wisniowski.me/categories/poland/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/categories/travel/</link>
+      <link>https://wisniowski.me/categories/travel/</link>
       <pubDate>Mon, 06 Oct 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/travel/</guid>
+      <guid>https://wisniowski.me/categories/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Australia</title>
-      <link>http://localhost:1313/categories/australia/</link>
+      <link>https://wisniowski.me/categories/australia/</link>
       <pubDate>Sun, 31 Aug 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/australia/</guid>
+      <guid>https://wisniowski.me/categories/australia/</guid>
       <description></description>
     </item>
     <item>
       <title>Movies</title>
-      <link>http://localhost:1313/categories/movies/</link>
+      <link>https://wisniowski.me/categories/movies/</link>
       <pubDate>Sat, 19 Jul 2025 10:08:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/movies/</guid>
+      <guid>https://wisniowski.me/categories/movies/</guid>
       <description></description>
     </item>
     <item>
       <title>TV Shows</title>
-      <link>http://localhost:1313/categories/tv-shows/</link>
+      <link>https://wisniowski.me/categories/tv-shows/</link>
       <pubDate>Sat, 19 Jul 2025 10:08:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tv-shows/</guid>
+      <guid>https://wisniowski.me/categories/tv-shows/</guid>
       <description></description>
     </item>
     <item>
       <title>United States</title>
-      <link>http://localhost:1313/categories/united-states/</link>
+      <link>https://wisniowski.me/categories/united-states/</link>
       <pubDate>Sat, 28 Jun 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/united-states/</guid>
+      <guid>https://wisniowski.me/categories/united-states/</guid>
       <description></description>
     </item>
     <item>
       <title>Tasmania</title>
-      <link>http://localhost:1313/categories/tasmania/</link>
+      <link>https://wisniowski.me/categories/tasmania/</link>
       <pubDate>Sat, 26 Apr 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/tasmania/</guid>
+      <guid>https://wisniowski.me/categories/tasmania/</guid>
       <description></description>
     </item>
     <item>
       <title>Sydney</title>
-      <link>http://localhost:1313/categories/sydney/</link>
+      <link>https://wisniowski.me/categories/sydney/</link>
       <pubDate>Sat, 22 Mar 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/sydney/</guid>
+      <guid>https://wisniowski.me/categories/sydney/</guid>
       <description></description>
     </item>
     <item>
       <title>Great Ocean Road</title>
-      <link>http://localhost:1313/categories/great-ocean-road/</link>
+      <link>https://wisniowski.me/categories/great-ocean-road/</link>
       <pubDate>Sun, 23 Feb 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/great-ocean-road/</guid>
+      <guid>https://wisniowski.me/categories/great-ocean-road/</guid>
       <description></description>
     </item>
     <item>
       <title>Singapore</title>
-      <link>http://localhost:1313/categories/singapore/</link>
+      <link>https://wisniowski.me/categories/singapore/</link>
       <pubDate>Mon, 11 Nov 2024 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/singapore/</guid>
+      <guid>https://wisniowski.me/categories/singapore/</guid>
       <description></description>
     </item>
     <item>
       <title>Website</title>
-      <link>http://localhost:1313/categories/website/</link>
+      <link>https://wisniowski.me/categories/website/</link>
       <pubDate>Sat, 31 Aug 2024 11:13:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/website/</guid>
+      <guid>https://wisniowski.me/categories/website/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>http://localhost:1313/categories/finance/</link>
+      <link>https://wisniowski.me/categories/finance/</link>
       <pubDate>Mon, 29 Apr 2024 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/finance/</guid>
+      <guid>https://wisniowski.me/categories/finance/</guid>
       <description></description>
     </item>
   </channel>
