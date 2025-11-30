@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tasmania on The Wisniowski Blog</title>
-    <link>https://wisniowski.me/categories/tasmania/</link>
+    <link>http://localhost:1313/categories/tasmania/</link>
     <description>Recent content in Tasmania on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Apr 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wisniowski.me/categories/tasmania/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/tasmania/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australia Entry #17 - March 23rd - April 26th, 2025</title>
-      <link>https://wisniowski.me/blog/post-19/</link>
+      <link>http://localhost:1313/blog/post-19/</link>
       <pubDate>Sat, 26 Apr 2025 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/blog/post-19/</guid>
+      <guid>http://localhost:1313/blog/post-19/</guid>
       <description>Images and Videos Images Here Before Tasmania This month was a month of firsts for sure.</description>
     </item>
   </channel>

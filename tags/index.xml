@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Wisniowski Blog</title>
-    <link>https://wisniowski.me/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Oct 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wisniowski.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Travel</title>
-      <link>https://wisniowski.me/tags/travel/</link>
+      <link>http://localhost:1313/tags/travel/</link>
       <pubDate>Mon, 06 Oct 2025 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/tags/travel/</guid>
+      <guid>http://localhost:1313/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Year 2025</title>
-      <link>https://wisniowski.me/tags/year-2025/</link>
+      <link>http://localhost:1313/tags/year-2025/</link>
       <pubDate>Mon, 06 Oct 2025 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/tags/year-2025/</guid>
+      <guid>http://localhost:1313/tags/year-2025/</guid>
       <description></description>
     </item>
     <item>
       <title>TV Shows</title>
-      <link>https://wisniowski.me/tags/tv-shows/</link>
+      <link>http://localhost:1313/tags/tv-shows/</link>
       <pubDate>Sat, 19 Jul 2025 10:08:00 +0000</pubDate>
-      <guid>https://wisniowski.me/tags/tv-shows/</guid>
+      <guid>http://localhost:1313/tags/tv-shows/</guid>
       <description></description>
     </item>
     <item>
       <title>Year 2024</title>
-      <link>https://wisniowski.me/tags/year-2024/</link>
+      <link>http://localhost:1313/tags/year-2024/</link>
       <pubDate>Sun, 15 Dec 2024 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/tags/year-2024/</guid>
+      <guid>http://localhost:1313/tags/year-2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Development</title>
-      <link>https://wisniowski.me/tags/development/</link>
+      <link>http://localhost:1313/tags/development/</link>
       <pubDate>Sat, 31 Aug 2024 11:13:00 +0000</pubDate>
-      <guid>https://wisniowski.me/tags/development/</guid>
+      <guid>http://localhost:1313/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Finance</title>
-      <link>https://wisniowski.me/tags/finance/</link>
+      <link>http://localhost:1313/tags/finance/</link>
       <pubDate>Mon, 29 Apr 2024 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/tags/finance/</guid>
+      <guid>http://localhost:1313/tags/finance/</guid>
       <description></description>
     </item>
   </channel>

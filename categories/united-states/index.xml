@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>United States on The Wisniowski Blog</title>
-    <link>https://wisniowski.me/categories/united-states/</link>
+    <link>http://localhost:1313/categories/united-states/</link>
     <description>Recent content in United States on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Jun 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wisniowski.me/categories/united-states/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/united-states/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australia Entry #18 - April 27th, 2025 - June 28th, 2025</title>
-      <link>https://wisniowski.me/blog/post-20/</link>
+      <link>http://localhost:1313/blog/post-20/</link>
       <pubDate>Sat, 28 Jun 2025 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/blog/post-20/</guid>
+      <guid>http://localhost:1313/blog/post-20/</guid>
       <description>Images and Videos Images Here One Year and Counting With this blog post, I officially mark over a year out here in Australia.</description>
     </item>
   </channel>
