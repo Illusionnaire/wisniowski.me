@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Zealand on The Wisniowski Blog</title>
+    <link>http://localhost:1313/categories/new-zealand/</link>
+    <description>Recent content in New Zealand on The Wisniowski Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2026 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/new-zealand/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Australia Entry #22 - December 25th, 2025 - January 11th</title>
+      <link>http://localhost:1313/blog/post-26/</link>
+      <pubDate>Sun, 05 Apr 2026 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-26/</guid>
+      <description>Images and Videos Images Here New Zealand: A Triumphant Return To truly appreciate my trip over Christmas to New Zealand, I need to rewind back time to the summer (New Zealand winter) of 2019.</description>
+    </item>
+  </channel>
+</rss>
