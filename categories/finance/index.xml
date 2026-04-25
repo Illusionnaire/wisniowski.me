@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finance on The Wisniowski Blog</title>
-    <link>https://wisniowski.me/categories/finance/</link>
+    <link>http://localhost:1313/categories/finance/</link>
     <description>Recent content in Finance on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 29 Apr 2024 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://wisniowski.me/categories/finance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/finance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australia Entry #3 - The Finances of Moving</title>
-      <link>https://wisniowski.me/blog/post-3/</link>
+      <link>http://localhost:1313/blog/post-3/</link>
       <pubDate>Mon, 29 Apr 2024 05:00:00 +0000</pubDate>
-      <guid>https://wisniowski.me/blog/post-3/</guid>
+      <guid>http://localhost:1313/blog/post-3/</guid>
       <description>When I was moving out of my apartment in Wisconsin, I realized how helpful and important it was to look back at the prices that I purchased things and to help wrap my head around how much money it will take to move to a new apartment and furnish it all from the beginning.</description>
     </item>
   </channel>
