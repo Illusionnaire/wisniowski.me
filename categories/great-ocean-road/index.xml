@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Great Ocean Road on The Wisniowski Blog</title>
-    <link>http://localhost:1313/categories/great-ocean-road/</link>
+    <link>https://wisniowski.me/categories/great-ocean-road/</link>
     <description>Recent content in Great Ocean Road on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Apr 2026 08:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/great-ocean-road/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wisniowski.me/categories/great-ocean-road/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australia Entry #26 - April 6th, 2026 - April 25th, 2026</title>
-      <link>http://localhost:1313/blog/post-29/</link>
+      <link>https://wisniowski.me/blog/post-29/</link>
       <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-29/</guid>
+      <guid>https://wisniowski.me/blog/post-29/</guid>
       <description>Images and Videos Images Here April: Hosting my Sister and Her Friend As part of working for Epic abroad, I have been given an annual personal flyback to use to return back to the US to see some family.</description>
     </item>
     <item>
       <title>Australia Entry #25 - February 21st, 2026 - April 6th, 2026</title>
-      <link>http://localhost:1313/blog/post-28/</link>
+      <link>https://wisniowski.me/blog/post-28/</link>
       <pubDate>Sun, 05 Apr 2026 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-28/</guid>
+      <guid>https://wisniowski.me/blog/post-28/</guid>
       <description>Images and Videos Images Here March: A Month of Highs and Lows March has definitely been a month of both highs and lows for me.</description>
     </item>
     <item>
       <title>Australia Entry #15 - January 27th - February 23rd, 2025</title>
-      <link>http://localhost:1313/blog/post-17/</link>
+      <link>https://wisniowski.me/blog/post-17/</link>
       <pubDate>Sun, 23 Feb 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-17/</guid>
+      <guid>https://wisniowski.me/blog/post-17/</guid>
       <description>Images and Videos Images Here The Great Ocean Road Over the month, I had done a lot of planning around making sure my mom had a great time when she visited me in Australia.</description>
     </item>
   </channel>

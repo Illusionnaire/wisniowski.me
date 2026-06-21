@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Zealand on The Wisniowski Blog</title>
-    <link>http://localhost:1313/categories/new-zealand/</link>
+    <link>https://wisniowski.me/categories/new-zealand/</link>
     <description>Recent content in New Zealand on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Apr 2026 08:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/new-zealand/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wisniowski.me/categories/new-zealand/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australia Entry #26 - April 6th, 2026 - April 25th, 2026</title>
-      <link>http://localhost:1313/blog/post-29/</link>
+      <link>https://wisniowski.me/blog/post-29/</link>
       <pubDate>Fri, 24 Apr 2026 08:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-29/</guid>
+      <guid>https://wisniowski.me/blog/post-29/</guid>
       <description>Images and Videos Images Here April: Hosting my Sister and Her Friend As part of working for Epic abroad, I have been given an annual personal flyback to use to return back to the US to see some family.</description>
     </item>
     <item>
       <title>Australia Entry #23 - December 25th, 2025 - January 11th, 2026</title>
-      <link>http://localhost:1313/blog/post-26/</link>
+      <link>https://wisniowski.me/blog/post-26/</link>
       <pubDate>Sun, 05 Apr 2026 06:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-26/</guid>
+      <guid>https://wisniowski.me/blog/post-26/</guid>
       <description>Images and Videos Images Here New Zealand: A Triumphant Return To truly appreciate my trip over Christmas to New Zealand, I need to rewind back time to the summer (New Zealand winter) of 2019.</description>
     </item>
   </channel>

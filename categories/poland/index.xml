@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poland on The Wisniowski Blog</title>
-    <link>http://localhost:1313/categories/poland/</link>
+    <link>https://wisniowski.me/categories/poland/</link>
     <description>Recent content in Poland on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Oct 2025 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/poland/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wisniowski.me/categories/poland/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australia Entry #20 - September 1st, 2025 - October 6th, 2025</title>
-      <link>http://localhost:1313/blog/post-23/</link>
+      <link>https://wisniowski.me/blog/post-23/</link>
       <pubDate>Mon, 06 Oct 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-23/</guid>
+      <guid>https://wisniowski.me/blog/post-23/</guid>
       <description>Images and Videos Images Here The What If&amp;hellip; I read a book this month called the Midnight Library by Matt Haig and it depicts the story of a woman called Nora Seed who after finding herself dissapointed with her current life gets the chance to explore alternate realities of her lives if the regrets she had were removed.</description>
     </item>
   </channel>

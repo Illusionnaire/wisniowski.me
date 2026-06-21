@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Singapore on The Wisniowski Blog</title>
-    <link>http://localhost:1313/categories/singapore/</link>
+    <link>https://wisniowski.me/categories/singapore/</link>
     <description>Recent content in Singapore on The Wisniowski Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Apr 2026 05:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/singapore/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wisniowski.me/categories/singapore/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Australia Entry #22 - November 8th, 2025 - December 24th, 2025</title>
-      <link>http://localhost:1313/blog/post-25/</link>
+      <link>https://wisniowski.me/blog/post-25/</link>
       <pubDate>Sun, 05 Apr 2026 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-25/</guid>
+      <guid>https://wisniowski.me/blog/post-25/</guid>
       <description>Images and Videos Images Here Okay&amp;hellip; I&amp;rsquo;m late It&amp;rsquo;s currently March 29th when I am starting to write this post in my notebook, and I&amp;rsquo;m recognized that I&amp;rsquo;ve really fallen behind on my blogging.</description>
     </item>
     <item>
       <title>Australia Entry #11 - October 23rd, 2024 - October 31st, 2024</title>
-      <link>http://localhost:1313/blog/post-13/</link>
+      <link>https://wisniowski.me/blog/post-13/</link>
       <pubDate>Mon, 11 Nov 2024 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/post-13/</guid>
+      <guid>https://wisniowski.me/blog/post-13/</guid>
       <description>Images and Videos Images Here Singapore for Work Busy, busy, busy.</description>
     </item>
   </channel>
